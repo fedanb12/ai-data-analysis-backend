@@ -16,7 +16,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:3002", "http://localhost:3001", "http://localhost:3003", "http://localhost:3005", "https://ai-data-analysis-backend.onrender.com"],
+    allow_origins=["http://localhost:3000", "http://localhost:3002", "http://localhost:3001", "http://localhost:3003", "http://localhost:3005", "https://fedanb12-ai-data-analysis-tool.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
