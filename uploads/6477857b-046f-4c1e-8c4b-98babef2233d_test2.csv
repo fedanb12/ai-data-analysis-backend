@@ -1,0 +1,5 @@
+id,first_name,last_name,email,role,status
+1,John,Doe,john.doe@example.com,Admin,Active
+2,Jane,Smith,jane.smith@example.com,Editor,Active
+3,Alex,Jones,alex.jones@example.com,Viewer,Inactive
+4,Sarah,Lee,sarah.lee@example.com,Editor,Active
